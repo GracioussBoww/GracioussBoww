@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GracioussBoww
 - 👀 I’m interested in creating a custom discord bot for my discord server
-- 🌱 I’m currently learning just how to build on them annoying things 
+- 🌱 I’m currently learning how to build a bot on a chromebook as i sold my PC for one of these and now regret it..
 - 💞️ I’m looking to collaborate on a project to help me learn how to create my custom bot 
 - 📫 How to reach me, message me on discord @GracioussBoww#9958
 
